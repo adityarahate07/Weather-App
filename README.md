@@ -17,7 +17,7 @@ It fetches real-time weather data using the OpenWeather API.
 
 ## 📸 Screenshot Preview
 
-![Weather App Screenshot](./Weather.png)
+![Weather App Screenshot](./Weather.jpeg)
 
 > 💡 Save your app screenshot as **`screenshot.png`** in the project folder
 
